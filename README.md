@@ -21,5 +21,5 @@ bun dev
 ```
 
 ```markdown
-![The App](C:\Users\Admin\Desktop\pmcode\public\Snip.png)
+![The App](public/Snip.png)
 ```
