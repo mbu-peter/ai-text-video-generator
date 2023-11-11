@@ -1,4 +1,4 @@
-# Project Name
+# AI-Vide-Image-Generator
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`PMCODE`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -18,4 +18,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
+```markdown
+![Image Description](r"D:\Admin\Pictures\snip.png")
 ```
