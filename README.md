@@ -20,6 +20,4 @@ pnpm dev
 bun dev
 ```
 
-```markdown
-![alt text](Snip.png)
-```
+![Image](/public/Snip.png)
