@@ -21,5 +21,5 @@ bun dev
 ```
 
 ```markdown
-![The App](./public/Snip.png)
+![alt text](https://github.com/mbu-peter/ai-text-video-generator/blob/main/public/Snip.png?raw=true)
 ```
