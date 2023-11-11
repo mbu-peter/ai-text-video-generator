@@ -21,5 +21,5 @@ bun dev
 ```
 
 ```markdown
-![Image Description](r"D:\Admin\Pictures\snip.png")
+![Image Description](D:\Admin\Pictures\Snip.png)
 ```
