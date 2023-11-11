@@ -21,5 +21,5 @@ bun dev
 ```
 
 ```markdown
-![The App](public/Snip.png)
+![The App](./public/Snip.png)
 ```
