@@ -19,5 +19,6 @@ pnpm dev
 # or
 bun dev
 ```
+![Image](/public/Snip.png)
 
 
