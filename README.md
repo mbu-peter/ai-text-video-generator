@@ -20,6 +20,4 @@ pnpm dev
 bun dev
 ```
 
-![Image](/public/Snip.png)
 
-If you find this project helpful, consider buying me a coffee! [![Buy Me a Coffee](https://www.buymeacoffee.com/pmcode6234l)](https://www.buymeacoffee.com/pmcode6234l)
