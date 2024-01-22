@@ -3,8 +3,7 @@
 This is a [Next.js](https://nextjs.org/)
 
 ## Overview
-
-Welcome to MY project! This repository also includes a reponsive front-end UI for AI text image and video generation using the OpenAI api
+Generate text and text short videos using AI
 
 ## Getting Started
 
