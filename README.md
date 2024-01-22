@@ -3,7 +3,7 @@
 This is a [Next.js](https://nextjs.org/)
 
 ## Overview
-Generate text and text short videos using AI
+Generate text and short videos using AI
 
 ## Getting Started
 
